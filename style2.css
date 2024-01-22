@@ -1,0 +1,6 @@
+.boxmodel{
+	text-align:center;
+	font-style: italic;
+	border: 5px solid red;
+	display: inline-block;
+}
